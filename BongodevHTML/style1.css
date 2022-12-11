@@ -1,0 +1,39 @@
+body{
+    width:70%;
+    margin:auto;
+
+}
+
+.container{
+    background-color: lightblue;
+    padding:1px 50px;
+    font-size: small;
+}
+img{
+    width:175px;
+    float:left;
+    box-shadow: 5px 5px orange;
+    margin-right:30px;
+    
+}
+.text{
+    font-size: large;
+    padding: 0 20px;
+   
+}
+.hi{
+    margin-top: 160px;
+}
+.html,.css,.js{
+    box-shadow: -5px 5px orange;
+    width:150px;
+}
+.form{
+    margin-top: 180px;
+}
+.footer{
+    background-color: lightblue;
+    padding:20px 0;
+    
+    font-size: 20px;
+}
