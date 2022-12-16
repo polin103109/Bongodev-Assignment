@@ -1,0 +1,139 @@
+*{
+    margin:0;
+}
+    body{
+    background: rgb(2, 2, 43);
+}
+#div1{
+    text-align: center;
+    color:aqua;
+    margin-top:20px ;
+    
+}
+.btnone{
+    background-color: black;
+    color: white;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 200px;
+    
+
+}
+.btntwo{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 400px;
+    border-radius: 40px;
+
+
+}
+.btntoo{
+    background-color: white;
+    color:  rgb(10, 102, 194);
+    border: 1px  rgb(10, 102, 194) solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 10px;
+    width: 100px;
+    border-radius: 50px;
+
+
+}
+.btnthree{
+    background-color:rgb(200, 0, 0);
+    color:  white;
+    border: 20px purple solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 400px;
+    
+}
+.btnfour{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 400px;
+    border-radius: 50px;
+    font-size: x-large;
+
+
+}
+.btnfive{
+    background-color:  rgb(46, 164, 79);
+    color: white;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 30px;
+   }
+.btnsix{
+    background-color: purple;
+    color: white;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+.btnseven{
+    background-color: transparent;
+    color: purple;
+    border: 1px purple solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 10px;
+
+
+}
+.btneight{
+    background-color: rgb(255,200,0);
+    color: brown;
+    border: 20px green solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+.btnnine{
+    background:linear-gradient(to right,#5c42aa ,#92FE9D);
+    color:white;
+    border: 20px white solid;
+    cursor:pointer;
+    padding: 20px;
+    margin-left: 50px;
+    width: 300px;
+    border-radius: 50px;
+    font-size: 20px;
+    box-shadow: #92FE9D;
+}
+
+
+h2{
+    color: white;
+    margin-left:100px ;
+    margin-top:50px ;
+    float:left;
+}
+h3{
+    color:white;
+    text-align: center;
+    margin-top:50px ;
+    font-size: 30px;
+}
