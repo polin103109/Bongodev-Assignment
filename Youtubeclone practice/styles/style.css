@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.video__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:10 px;
+    row-gap: 20 px;
+}
+.video__thumb{
+    position: relative;
+}
+.duration{
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 12px;
+    right:25px;
+    font-size:1rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px ;
+}
+.video__lower{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    column-gap: 10px;
+}
+.channel__thumb img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.video__thumb img{
+    width: 432px;
+    border-radius:18px ;
+
+}
+
+.video__info{
+    display: grid;
+    row-gap: 10px;
+    padding-bottom:30px;
+    font-weight: bold;
+}
