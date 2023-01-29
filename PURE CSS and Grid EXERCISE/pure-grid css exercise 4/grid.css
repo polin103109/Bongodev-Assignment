@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.first_div img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+   
+
+}
+.first_div{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   margin: 5px;
+}
+body{
+    margin: 10px;
+}
+button{
+    background-color:rgb(64, 93, 160);
+    border-style: none;
+    color:white;
+    width:150px;
+    height: 65px;
+    border-radius: 10px;
+    cursor:pointer;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 30px;
+}
+#name{
+    font-weight: bold;
+    
+}
+.image-info{
+    margin-top: 40px;
+    font-size: 35px;
+    margin-right: 700px;
+    width:150px;
+}
+.follow-button{
+    margin-top: 30px;
+    
+    margin-right: 700px;
+   
+}
+#sleep,#pop{
+    color:grey;
+}
+.image-div{
+    
+    width:200px;
+    padding: 30px;
+}
+

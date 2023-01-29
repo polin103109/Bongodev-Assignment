@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    background-image: url("/images/back img.jpeg");
+    background-repeat: no-repeat;
+    margin: 30px;
+    border-radius:25px;
+    background-color: rgb(36, 33, 33);
+    position: relative;
+    background-size: 1350px 200px;
+    }
+    .second__section{
+
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap:2px;
+        height: 300px;
+        width:1300px;
+        border-radius:25px;
+    
+       
+    }
+    .channel__thumb img{
+        border-radius: 50%;
+        height: 120px;
+        margin-top: 140px;
+        margin-left: 30px;
+        display: grid;
+        right: 0;
+        
+    
+    }  
+    .bongo{
+        color:rgb(204, 79, 33);
+        font-size: 70px;
+       
+    } 
+    .dev{
+        color:white;
+        margin-left: 0.1%;
+        font-size: 70px;
+    } 
+    #first-text{
+        text-align: center;
+        padding-top: 50px;
+    }
+    #text1{
+        color:white;
+        font-weight: bold;
+        font-size: 40px;
+        padding-top: 80px;
+       
+       
+    }
+    #text2{
+        color:white;
+        font-size: 20px;
+       
+      
+       
+    }
+    .button{
+        color:black;
+        background-color:rgb(231, 103, 57);;
+        font-size: 30px;
+        padding: 15px;
+        border-radius: 35px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: none !important;
+        border:none;
+        max-width: 250px;
+        width: 250px;
+       }
+       .btn{
+       
+       width:800px;
+       padding-top: 160px;
+     
+       }
+       .channel__info{
+        padding-right: 600px;
+        margin-bottom: 400px;
+        margin-top:80px ;
+       }
+    
